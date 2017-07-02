@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/about_us.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/about_us.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/imageview.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/imageview.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/controler_light.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/controler_light.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/fan_control_open.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/fan_control_open.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_debug.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_debug.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_problem.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_problem.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/vlist.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/vlist.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/menu_one.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/menu_one.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/controler_heater.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/controler_heater.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/controler_fan.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/controler_fan.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/controler_water.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/controler_water.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/controler_window.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/controler_window.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/layout/activity_clock.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/layout/activity_clock.xml"
+    }
+]

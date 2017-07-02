@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_05.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_05.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_02.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_02.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_btn_all.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/bg_btn_all.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_close.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_close.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_send.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_send.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_water.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_water.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_edt_temperature.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/bg_edt_temperature.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_window.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_window.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_light_open.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_light_open.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_04.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_04.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_01.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_01.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_back.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_light_close.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_light_close.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cancle.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_cancle.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/team.jpg",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/team.jpg"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_heater.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_heater.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_heater_close.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_heater_close.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_window_close.jpg",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_window_close.jpg"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_btn_single.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/bg_btn_single.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_debug.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_debug.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_water_open.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_water_open.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_window_open.jpg",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_window_open.jpg"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_save.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_save.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_main.jpg",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/bg_main.jpg"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_water_close.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_water_close.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_setting.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_setting.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_light.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_light.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_window.jpg",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/bg_window.jpg"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_03.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_03.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_heater_open.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_heater_open.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_fan_open.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-hdpi/btn_fan_open.png"
+    }
+]

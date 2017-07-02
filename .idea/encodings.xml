@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/AlarmReceiver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/ClockActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/DebugActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/FanActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/HeaterControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/ImageFan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/LightActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/MenuActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/SettingActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/WaterControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/MainActivity/WindowControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/data/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/data/MyPrefer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/service/NetSendService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/service/NetService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farm/service/ReceiveService.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

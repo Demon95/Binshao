@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:16:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:20:22-77
+application
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:22:5-73:19
+	android:label
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:24:9-42
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.farm.MainActivity.MainActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:28:13-62
+receiver#com.farm.MainActivity.AlarmReceiver
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:34:9-36:50
+	android:process
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:36:13-38
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:35:13-42
+service#com.farm.service.NetService
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:38:9-71
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:38:18-60
+activity#com.farm.MainActivity.LightActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:40:9-42:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:42:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:41:13-42
+activity#com.farm.MainActivity.FanActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:43:9-45:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:45:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:44:13-40
+activity#com.farm.MainActivity.SettingActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:46:9-62
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:46:19-50
+activity#com.farm.MainActivity.HeaterControl
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:47:9-49:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:48:13-42
+activity#com.farm.MainActivity.WaterControl
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:50:9-52:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:51:13-41
+activity#com.farm.MainActivity.WindowControl
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:53:9-55:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:55:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:54:13-42
+activity#com.farm.MainActivity.ImageFan
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:56:9-58:73
+	android:theme
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:58:13-61
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:57:13-37
+activity#com.farm.MainActivity.DebugActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:59:9-60
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:59:19-48
+activity#com.farm.MainActivity.AboutUS
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:60:9-54
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:60:19-42
+activity#com.farm.MainActivity.ProblemsActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:61:9-63
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:61:19-51
+activity#com.farm.MainActivity.MenuActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:62:9-59
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:62:19-47
+activity#com.farm.MainActivity.ClockActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:63:9-60
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:63:19-48
+activity#com.farm.MainActivity.LoginActivity
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:64:9-72:20
+	android:label
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:66:13-57
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:65:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:67:13-71:29
+action#android.intent.action.MAIN
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:68:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from /Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/AndroidManifest.xml:70:27-74

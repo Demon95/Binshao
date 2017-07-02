@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_exit.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_exit.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_problem.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_problem.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_logo_small.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_logo_small.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/xml_bg_btn_single.xml",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/xml_bg_btn_single.xml"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_clock.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_clock.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_debug.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_debug.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_logo.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_logo.png"
+    },
+    {
+        "merged": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ico_lyu.png",
+        "source": "/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/src/main/res/drawable-mdpi/ico_lyu.png"
+    }
+]
