@@ -23,6 +23,7 @@ android {
     compileOptions {
         encoding "GBK"
     }
+    
 }
 
 dependencies {
