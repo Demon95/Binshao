@@ -1,4 +1,7 @@
-#Sun Jul 02 16:31:09 CST 2017
-base.0=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Jul 02 17:08:55 CST 2017
+base.0=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c25606a83208717400dc6acff41a162570a75011
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3685d02ecf41fb331e78add57ab00d7f0305b65/classes.dex
+base.1=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3685d02ecf41fb331e78add57ab00d7f0305b65
+file.0=/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c25606a83208717400dc6acff41a162570a75011/classes.dex

@@ -2,6 +2,15 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c25606a83208717400dc6acff41a162570a75011/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/ZTF/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
@@ -9,6 +18,15 @@
         revision="25.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_20ae62bea8e85c87bd678945c5f101b2970b32cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d605ae3482471a8eae536aefe972fe5518acbbe5">
+        <dex dex="/Users/ZTF/AndroidStudioProjects/LYU_Android_Farm-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c3685d02ecf41fb331e78add57ab00d7f0305b65/classes.dex" />
     </item>
 
 </items>
